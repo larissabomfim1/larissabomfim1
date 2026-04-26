@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Bomfim 
+# 👱‍♀️💻 Larissa Bomfim 
 
 **`Senior Data Analyst`**
 
