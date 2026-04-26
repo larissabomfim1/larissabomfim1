@@ -5,28 +5,7 @@
 Olá! Me chamo Larissa Bomfim, sou Analista de dados Senior com 5+ anos de experiência na área, formada em Engenharia Química pela UFES e com pós graduação em Análise de Dados. Atualmente, estou em busca de mais aprendizados na área, buscando certificações e atrás de manipular novas stacks. Sou apaixonada por tecnologia e área de dados compartilho meu conhecimento através do meu linkedin "[Larissa Bomfim](https://www.linkedin.com/in/larissabomfim1/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+      <a href="https://github.com/larissabomfim1tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
